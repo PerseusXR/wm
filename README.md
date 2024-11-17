@@ -2,3 +2,5 @@
 
 Текущая версия 0.0.1 alpha доступна по ссылке
 https://github.com/PerseusXR/wm/releases/download/v0.0.1-alpha/wm_helper_0_0_1_a.apk
+
+По вопросу установки и включения в программу пишите в телеграм @kirkokuev
