@@ -14,6 +14,9 @@
 
 <a href="https://github.com/PerseusXR/wm/wiki/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC">Как пользоваться приложением</a>
 
+Перед использованием приложения необходимо зарегистрировать свой VIN путем заполнения формы:
+https://forms.gle/vbwfH2nF7CPXyU9t9
+
 <b>Загрузка приложения:</b>
 
 Скачать: <a href="https://github.com/PerseusXR/wm/releases/download/v0.0.2-alpha/wm_helper_0_0_2_a.apk">текущая версия 0.0.2 alpha </a>
