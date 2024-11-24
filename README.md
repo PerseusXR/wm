@@ -19,7 +19,7 @@
 
 <b>Загрузка приложения:</b>
 
-Скачать: <a href="https://github.com/PerseusXR/wm/releases/download/v0.0.2-alpha/wm_helper_0_0_2_a.apk">текущая версия 0.0.2 alpha </a>
+Скачать: <a href="https://github.com/PerseusXR/wm/releases/download/v0.0.3-alpha/wm_helper_0_0_3_a.apk">текущая версия 0.0.3 alpha </a>
 
 Скачать: <a href="https://github.com/PerseusXR/wm/releases/download/v0.0.2-alpha/ADB-FAT32.zip"> файлы для флешки</a>
 
