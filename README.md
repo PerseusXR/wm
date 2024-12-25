@@ -7,6 +7,7 @@
 - установить произвольные приложения с телефона пользователя.
 - установить региональные настройки на английский язык
 - установить верную дату и время и часовой пояс (<a href="https://github.com/PerseusXR/wm/wiki/%D0%9A%D0%B0%D0%BA-%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C-TBox">требует ручного отключения TBox</a>)
+- переключить на автоматическое получение времени из сети
 - восстановить доступ в интернет, недоступный из-за сбитой даты
 
 <b>Что в планах:</b>
@@ -22,7 +23,7 @@
 
 <b>Загрузка приложения:</b>
 
-Скачать: <a href="https://github.com/PerseusXR/wm/releases/download/v0.0.4-alpha/wm_helper_0_0_4_a_debug.apk">текущая версия 0.0.4 alpha </a>
+Скачать: <a href="https://github.com/PerseusXR/wm/releases/download/v0.0.4-alpha/wm_helper_0_0_5_a.apk.apk">текущая версия 0.0.5 alpha </a>
 
 Скачать: <a href="https://github.com/PerseusXR/wm/raw/refs/heads/main/ADB-FAT32.zip"> файлы для флешки</a>
 
